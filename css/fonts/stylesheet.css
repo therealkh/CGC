@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Effra';
+    src: url('Effra-Regular.eot');
+    src: url('Effra-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Effra-Regular.woff2') format('woff2'),
+        url('Effra-Regular.woff') format('woff'),
+        url('Effra-Regular.ttf') format('truetype'),
+        url('Effra-Regular.svg#Effra-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
